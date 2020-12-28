@@ -105,7 +105,7 @@ a.feedback-icon { width: 14px; height: 10px;}
 #copyright { width: 49%; position: absolute; top: 20px; left: 25px;}
 #copyright p { margin: 0;}
 .footer-links { width:50%; position:absolute; right:25px; top: 20px; }
-#footer-links { margin:0; padding:0; list-style: none; text-align: right;}
+#footer-links { margin:0; padding:0; list-style: none; }
 #footer-links li { display: inline; padding-left:1.5em;}
 
 #space-for-footer { height: 90px; }
